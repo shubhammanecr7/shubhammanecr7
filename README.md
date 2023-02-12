@@ -15,8 +15,9 @@ I'm currently learning about JAVA SE!! 💻<br>Love to watch tech podcast! 😇<
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 My Favourite Quote
-<img src="‪G:\Browser downloads\PWJAVA\Quote.png" width="512px"/>
+### Visit Again
+![Quote](https://user-images.githubusercontent.com/58423333/218315540-5f6bdb8f-a24f-4492-978f-d22496938b5c.png)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shubhammanecr7&icon=5&color=11)](https://visitcount.itsvg.in)
